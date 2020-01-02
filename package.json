@@ -1,7 +1,10 @@
 {
-  "name": "graphql-sequelize-demo",
+  "name": "graphql-sequelize-demo-services",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "description": "testing",
+  "repository": "https://github.com/wellyssongodinho/graphql-sequelize-demo.git",
+  "author": "wellyssongodinho <wellysson.gomes@gmail.com>"
 }
